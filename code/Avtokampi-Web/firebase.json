@@ -1,0 +1,17 @@
+{
+  "hosting": {
+    "site": "camping-web",
+    "public": "dist/Avtokampi-Web",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}
