@@ -6,6 +6,8 @@
 
 This is a web camping app written in Angular.
 
+We created PWA web app. So if you using Chromium based browser on computers or mobiles, you could install app to desktop with install icon on top right of the browser.
+
 Table of contents
 =================
 
@@ -41,3 +43,13 @@ provide the following pages:
 - adding a new camp for camping owners
 - modifying and erasing camps for camping owners
 - adding, modifying and deleting camping spaces
+
+## Links
+
+We published app on Firebase.
+
+- https://camping-web.web.app/
+
+Also If you want to see API swagger doc, we published on Azure.
+
+- https://camping-api.azurewebsites.net/
