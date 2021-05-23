@@ -8,6 +8,11 @@ This is a web camping app written in Angular.
 
 We created PWA web app. So if you using Chromium based browser on computers or mobiles, you could install app to desktop with install icon on top right of the browser.
 
+## Presentation video
+
+- https://youtu.be/20yYPs08Vy0
+- https://youtu.be/k0_4XvFMspk
+
 Table of contents
 =================
 
@@ -53,3 +58,6 @@ We published app on Firebase.
 Also If you want to see API swagger doc, we published on Azure.
 
 - https://camping-api.azurewebsites.net/
+
+You can try login with user:
+- dabeu@cegu.com / string
